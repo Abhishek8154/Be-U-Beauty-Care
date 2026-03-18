@@ -1,0 +1,5 @@
+{
+  "name": "Be U Beauty Care",
+  "description": "Premium beauty salon in Mumbai offering professional hair, skin, and makeup services. Be Yourself, Be Beautiful.",
+  "requestFramePermissions": ["geolocation"]
+}
